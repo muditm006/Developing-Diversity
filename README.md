@@ -1,4 +1,5 @@
-Hello!
+# Developing Diversity
+## Explore Hacks
 
 If you're reading this, Developing Diversity™ has officially submitted their entry
 for ExploreHacks 2021. The instructions to view the site and the included data
